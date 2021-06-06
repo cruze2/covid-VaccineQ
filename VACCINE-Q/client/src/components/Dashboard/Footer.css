@@ -1,0 +1,19 @@
+.footer {
+  position: fixed;
+  width: 100%;
+  background: white;
+  bottom: 0px;
+  left: 0;
+  border-top: 1px solid rgb(189, 181, 181);
+}
+.footer1 {
+  float: left;
+}
+.footer2 {
+  margin-left: 10rem;
+}
+
+.footer3 {
+  float: right;
+}
+
