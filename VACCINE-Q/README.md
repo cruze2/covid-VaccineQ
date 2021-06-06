@@ -1,5 +1,5 @@
 
-# DigiQ | VacciQ :man: :blonde_woman: :house: :mask: :pray:
+# COVID-19| VacciQ : :mask: :pray:
 
 ![No more waiting in queues](https://github.com/cruze2/covid-VaccineQ/blob/main/VACCINE-Q/client/public/imgs/logo.png)
 
